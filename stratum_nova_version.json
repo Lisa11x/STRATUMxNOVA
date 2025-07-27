@@ -1,0 +1,25 @@
+{
+  "project": "STRATUM.NOVA",
+  "version": "1.0.0",
+  "last_update": "2025-07-27T11:48:25.997668Z",
+  "files": {
+    "A": {
+      "name": "stratum_nova_mapdata_A_CH.geojson",
+      "entries": 34,
+      "updated": "2025-07-27T11:48:25.997678Z"
+    },
+    "B": {
+      "name": "stratum_nova_mapdata_B_CH.geojson",
+      "entries": 62,
+      "updated": "2025-07-27T11:48:25.997681Z"
+    }
+  },
+  "meta": {
+    "country": "CH",
+    "region": "All",
+    "data_source": "Mindat API",
+    "scope": "Alle Fundorte je Mineral, Buchstabenstruktur A-Z",
+    "completeness": "vollst\u00e4ndig",
+    "generator": "Caelus-1"
+  }
+}
