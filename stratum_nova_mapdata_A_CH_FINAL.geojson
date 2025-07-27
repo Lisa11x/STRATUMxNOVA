@@ -1,0 +1,643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.156,
+          46.371
+        ]
+      },
+      "properties": {
+        "mineral": "Adamite",
+        "name": "Binntal, VS (Adamite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56,
+          46.56
+        ]
+      },
+      "properties": {
+        "mineral": "Albite",
+        "name": "Gotthardpass, UR (Albite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.631,
+          46.468
+        ]
+      },
+      "properties": {
+        "mineral": "Albite",
+        "name": "Val Cristallina, TI (Albite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.804,
+          46.607
+        ]
+      },
+      "properties": {
+        "mineral": "Almandine",
+        "name": "Lukmanierpass, GR (Almandine)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.33,
+          46.65
+        ]
+      },
+      "properties": {
+        "mineral": "Almandine",
+        "name": "Piz Beverin, GR (Almandine)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          46.7
+        ]
+      },
+      "properties": {
+        "mineral": "Anatase",
+        "name": "Tavetsch-Massiv, GR (Anatase)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.45,
+          46.65
+        ]
+      },
+      "properties": {
+        "mineral": "Anatase",
+        "name": "Göschenertal, UR (Anatase)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          46.2
+        ]
+      },
+      "properties": {
+        "mineral": "Ankerite",
+        "name": "Simplongebiet, VS (Ankerite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35,
+          46.55
+        ]
+      },
+      "properties": {
+        "mineral": "Annabergite",
+        "name": "Val Ferrera, GR (Annabergite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.97,
+          46.44
+        ]
+      },
+      "properties": {
+        "mineral": "Antigorite",
+        "name": "Val Malvaglia, TI (Antigorite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63,
+          46.53
+        ]
+      },
+      "properties": {
+        "mineral": "Apatite",
+        "name": "Fibbia-Massiv, TI (Apatite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.15,
+          46.38
+        ]
+      },
+      "properties": {
+        "mineral": "Apatite",
+        "name": "Binntal, VS (Apatite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6,
+          46.15
+        ]
+      },
+      "properties": {
+        "mineral": "Aragonite",
+        "name": "Val d’Anniviers, VS (Aragonite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          46.2
+        ]
+      },
+      "properties": {
+        "mineral": "Augite",
+        "name": "Simplongebiet, VS (Augite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75,
+          46.67
+        ]
+      },
+      "properties": {
+        "mineral": "Axinite",
+        "name": "Piz Giuv, GR (Axinite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9,
+          46.1
+        ]
+      },
+      "properties": {
+        "mineral": "Azurite",
+        "name": "Saas-Fee Region, VS (Azurite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633,
+          46.531
+        ]
+      },
+      "properties": {
+        "mineral": "Allanite",
+        "name": "Fibbia, TI (Allanite)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.037,
+          46.247
+        ]
+      },
+      "properties": {
+        "mineral": "Actinolite",
+        "location": "Simplonpass",
+        "country": "Switzerland",
+        "source": "Mindat API (simuliert)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.41,
+          46.632
+        ]
+      },
+      "properties": {
+        "mineral": "Aegirine",
+        "location": "Piz Beverin",
+        "country": "Switzerland",
+        "source": "Mindat API (simuliert)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.165,
+          46.374
+        ]
+      },
+      "properties": {
+        "mineral": "Aikinite",
+        "location": "Binntal",
+        "country": "Switzerland",
+        "source": "Mindat API (simuliert)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.443,
+          46.79
+        ]
+      },
+      "properties": {
+        "mineral": "Amber",
+        "location": "Gurnigel",
+        "country": "Switzerland",
+        "source": "Mindat API (simuliert)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597,
+          46.185
+        ]
+      },
+      "properties": {
+        "mineral": "Analcime",
+        "location": "Val d’Anniviers",
+        "country": "Switzerland",
+        "source": "Mindat API (simuliert)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.325938,
+          46.75913
+        ]
+      },
+      "properties": {
+        "mineral": "Acanthite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.110194,
+          47.702014
+        ]
+      },
+      "properties": {
+        "mineral": "Afghanite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.747962,
+          46.566807
+        ]
+      },
+      "properties": {
+        "mineral": "Allanite-(Ce)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.251366,
+          46.131491
+        ]
+      },
+      "properties": {
+        "mineral": "Allanite-(Y)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.340693,
+          47.285341
+        ]
+      },
+      "properties": {
+        "mineral": "Alunite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1154,
+          46.404692
+        ]
+      },
+      "properties": {
+        "mineral": "Andalusite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.328691,
+          46.81328
+        ]
+      },
+      "properties": {
+        "mineral": "Anglesite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.037858,
+          47.239641
+        ]
+      },
+      "properties": {
+        "mineral": "Apophyllite-(KF)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.092571,
+          47.34782
+        ]
+      },
+      "properties": {
+        "mineral": "Apophyllite-(KOH)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.507532,
+          47.613024
+        ]
+      },
+      "properties": {
+        "mineral": "Arsenopyrite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470567,
+          46.984001
+        ]
+      },
+      "properties": {
+        "mineral": "Arthurite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.054608,
+          47.744656
+        ]
+      },
+      "properties": {
+        "mineral": "Artinite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.723064,
+          47.750625
+        ]
+      },
+      "properties": {
+        "mineral": "Asbestos",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453617,
+          46.682609
+        ]
+      },
+      "properties": {
+        "mineral": "Astrophyllite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.988955,
+          46.237668
+        ]
+      },
+      "properties": {
+        "mineral": "Atacamite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.299081,
+          47.349489
+        ]
+      },
+      "properties": {
+        "mineral": "Aurichalcite",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.201438,
+          47.469349
+        ]
+      },
+      "properties": {
+        "mineral": "Axinite-(Fe)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.789715,
+          45.981614
+        ]
+      },
+      "properties": {
+        "mineral": "Axinite-(Mn)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.540408,
+          47.548705
+        ]
+      },
+      "properties": {
+        "mineral": "Axinite-(Mg)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.645424,
+          47.13442
+        ]
+      },
+      "properties": {
+        "mineral": "Axinite-(Zn)",
+        "source": "Mindat (simuliert)",
+        "country": "Switzerland",
+        "confidence": "simulated"
+      }
+    }
+  ]
+}
